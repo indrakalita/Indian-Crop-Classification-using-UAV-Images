@@ -17,4 +17,4 @@ The datasets are available on request via mail to indrakalita09@gmail.com/moumit
 
 Note: Please cite the work if you are using the code in your work.
 Thank you
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/indrakalita/Indian-Crop-Classification-using-UAV-Images/blob/main/Dataset/1.jpg)

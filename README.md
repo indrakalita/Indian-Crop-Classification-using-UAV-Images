@@ -12,7 +12,7 @@ Instruction:
 
 
 Dataset:
-Assam Agricultural Region Crop (AARC) and Kolkata Agricultural Region Crop (KARC)
+Assam Agricultural Region Crop (AARC) and Kolkata Agricultural Region Crop (KARC).
 The datasets are available on request via mail to indrakalita09@gmail.com/moumita2009.roy@gmail.com
 
 Note: Please cite the work if you are using the code in your work.

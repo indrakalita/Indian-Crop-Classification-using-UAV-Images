@@ -7,13 +7,13 @@ Kalita, I., Singh, G. P., & Roy, M. (2022). Crop classification using aerial ima
 
 Instruction:
 1. MFMS.py: Run the script to generate the Individual score using MFMS architecture.
-2. InceptionV3.py: Run the script to generate the Individual score using pre-traind architecture.
+2. InceptionV3.py: Run the script to generate the Individual score using pre-trained architecture.
 3. Ensemble_Sum.py: Run the script to produce the ensemble result.
 
 
 Dataset:
 Assam Agricultural Region Crop (AARC) and Kolkata Agricultural Region Crop (KARC).
-The datasets are available on request via mail to indrakalita09@gmail.com/moumita2009.roy@gmail.com
+The datasets are available using the link: **https://drive.google.com/file/d/1SMhHz_T_FjBcSKOg43IyMjQK4fwejjAM/view?usp=sharing**
 
 Note: Please cite the work if you are using the code in your work.
 Thank you
